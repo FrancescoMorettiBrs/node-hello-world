@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "string conversion",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescoMorettiBrs/node-hello-world.git"
+  },
+  "type": "module",
+  "author": "Moretti Francesco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescoMorettiBrs/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/FrancescoMorettiBrs/node-hello-world#readme"
+}
